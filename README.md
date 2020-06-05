@@ -1,2 +1,3 @@
 # hello-world
 first repository for R course
+Just trying to figure out how to push files from RStudio to Github....
